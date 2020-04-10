@@ -36,10 +36,17 @@
             android:background="#E93F51B5"
             android:text="sedes UdeA" />
 
+        <Button
+            android:id="@+id/btn_ciudad"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#00796B"
+            android:text="Mapa Ciudad Universitaria" />
+
         <ImageView
             android:id="@+id/imageView2"
             android:layout_width="431dp"
-            android:layout_height="176dp"
+            android:layout_height="297dp"
             app:srcCompat="@drawable/udea" />
 
     </LinearLayout>

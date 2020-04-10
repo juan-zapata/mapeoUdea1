@@ -19,7 +19,7 @@ import com.google.android.gms.maps.model.Marker
 import com.google.android.gms.maps.model.MarkerOptions
 
 
-class MapsActivity1() : AppCompatActivity(), OnMapReadyCallback,GoogleMap.OnMarkerClickListener{
+class MapsActivity1() : AppCompatActivity(), OnMapReadyCallback, GoogleMap.OnMarkerClickListener{
 
     private lateinit var fusedLocationClient: FusedLocationProviderClient
 
@@ -56,6 +56,7 @@ class MapsActivity1() : AppCompatActivity(), OnMapReadyCallback,GoogleMap.OnMark
      * it inside the SupportMapFragment. This method will only be triggered once the user has
      * installed Google Play services and returned to the app.
      */
+
     override fun onMapReady(googleMap: GoogleMap) {
         mMap = googleMap
 
