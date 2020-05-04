@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">mapaMedellin</string>
+    <string name="title_activity_maps1">Map</string>
+    <string name="title_activity_maps_ubicacion">Map</string>
+    <string name="title_activity_p">Map</string>
+
+    <string name="facultIng">Facultad de Ingeniería</string>
+    <string name="InfoIng">En la facultad de ingeniería están los bloques 18-19-20-21. En el primer piso del bloque 19 se encuentra el auditorio Álvaro Pérez Roldán. El primer piso del bloque 21 hace parte de los procesos administrativos de la facultad. EL bloque 18 es destinado para los laboratorios de investigación</string>
+
+    <string name="administrativo">Bloque Administrativo</string>
+    <string name="InfoAdmin">En el bloque 16 se ubica toda la parte administrativa de la Universidad. Oficinas, puntos de información y la rectoría se encuentran aquí. Son los encargados de recibir los papeles de los nuevos universitarios.</string>
+
+    <string name="bienestar">Bienestar Universitario</string>
+    <string name="InfoBien">En el bloque 22 se encuentran los departamentos de Bienestar Universitario, otras unidades administrativas, la librería y la farmacia de la universidad.</string>
+
+    <string name="biblioteca">Biblioteca central</string>
+    <string name="InfoBiblio">La biblioteca Carlos Gaviria Díaz se encuentra en el bloque 8. Tiene 5 pisos en los que se encuentran varias secciones de libros, zonas de estudio, zonas de cómputo, préstamo de material bibliográfico y puntos de información.</string>
+
+    <string name="teatro">Teatro Camilo Torres</string>
+    <string name="InfoTeatr">El Teatro Camilo Torres se encuentra ubicado en el bloque 23, en la Plazoleta Central de la Ciudad Universitaria y frente a él, la fuente.</string>
+
+    <string name="museo">Museo universitario Universidad de Antioquia</string>
+    <string name="InfoMuseo">El MuuA se encuentra en el bloque 15. Cuenta con exposiciones, un centro de documentación, un laboratorio de referencia arqueológica, aulas taller, el Auditorio Luis Javier García Isaza y la tienda de souvenirs.</string>
+
+    <string name="idiomas">Escuela de Idiomas</string>
+    <string name="InfoIdio">Este es el bloque en donde está ubicada la escuela de idiomas de la Universidad de Antioquia.</string>
+
+    <string name="derecho">Facultad de Derecho y Ciencias Políticas</string>
+    <string name="InfoDere">En este bloque está la Facultad de Derecho y Ciencias Políticas. En el primer piso se encuentran las oficinas administrativas, en el segundo piso salones y 2 salas de cómputo. Bienestar, para este departamento, se encuentra en el 3er piso.</string>
+
+    <string name="exactasynaturales">Facultad de Ciencias Exactas y Naturales</string>
+    <string name="InfoExactyNAtu">Los bloques 1-2-3-4-5-6-7 hacen parte de la facultad que está conformada por los institutos de Biología, Física, Química y Matemáticas. El TAL (Teatro al Aire Libre) se encuentra entre los bloques 2 y 4. El Herbario Universidad de Antioquia se encuentra entre los bloque 6 y 7.</string>
+
+    <string name="comunicaciones">Facultad de Comunicaciones</string>
+    <string name="InfoComunic">En este bloque está la Facultad de Comunicaciones, la Escuela Interamericana de Bibliotecología y el Instituto de Filosofía. También hay aulas de cómputo y un laboratorio de Filología.</string>
+
+    <string name="bloque9">Bloque 9</string>
+    <string name="Info9">En este bloque  se ubican 2 facultades, la facultad de Ciencias Sociales y Humanas (Psicología, Sociología, Historia, Antropología y Trabajo Social) y la facultad de Educación.
+        El bloque está situado paralelamente al bloque 1, siendo estos los 2 bloques más cercanos a la portería de Barranquilla. Entre dichos bloques se encuentra la plazoleta Barrientos, lugar de mayor tránsito de personas dentro del alma mater.
+    </string>
+
+    <string name="artes">Facultad de Artes</string>
+    <string name="InfoArt">En la facultad de Artes están los bloques 23-24 y 25
+        En el primer piso del bloque 23 se encuentra el teatro Camilo Torres. En el bloque 25 se encuentra la biblioteca de la facultad y las oficinas de administración de cada programa. El salón 101 del bloque 25 se divide en A y B, el salón A es una sala de exposiciones y el salón B está en el patio de las mesas de atrás de la facultad.
+    </string>
+
+    <string name="farmaceuticas">Facultad de Ciencias Farmacéuticas y Alimentarias</string>
+    <string name="InfoFarma">Este es el bloque principal de la facultad (las clases de algunos programas se ofrecen en la facultad de ingeniería). Gestión Académica (oficina 2–127. Gestión Administrativa (oficina 2-133. Centro de Investigaciones y Extensión CIFAL (Edificio de Extensión UdeA - oficina 303)</string>
+
+    <string name="economicas">Facultad de Ciencias Económicas y Financieras</string>
+    <string name="InfoEco">la facultad de ciencias económicas está ubicada en el bloque 13. En el bloque 19 existe un salón propio de la facultad, este es el laboratorio financiero Punto BVC(19–206). En el primer piso se encuentra la parte administrativa de la facultad.</string>
+</resources>

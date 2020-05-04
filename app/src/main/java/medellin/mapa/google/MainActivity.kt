@@ -24,10 +24,7 @@ class MainActivity : AppCompatActivity() {
             val intent = Intent(applicationContext, MapsActivity1::class.java)
             startActivity(intent)
         })
-        btnCiudad.setOnClickListener(View.OnClickListener {
-            val intent = Intent(applicationContext, MapaCiu::class.java)
-            startActivity(intent)
-        })
+
 
 
     }
